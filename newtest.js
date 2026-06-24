@@ -4,4 +4,5 @@ test("validate facebook Application", async( {page} ) => {
     console.log(" test file moved to github")
     console.log("welcome new branch")
     console.log("playwright1")
+    console.log9("thanks")
 } )
